@@ -1,4 +1,4 @@
-package nondescreasing;
+package leetcode665;
 
 public class CheckNonDecreasingByModifyOneElementFunction {
 	public boolean checkPossibility(int[] nums){
