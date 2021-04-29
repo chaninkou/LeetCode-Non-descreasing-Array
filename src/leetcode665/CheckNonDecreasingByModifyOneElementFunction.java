@@ -5,7 +5,6 @@ public class CheckNonDecreasingByModifyOneElementFunction {
 		int numberOfChange = 0;
 		
 		// {3,4,2,3}
-		
 		for(int i = 1; i < nums.length & numberOfChange <= 1; i++){
 			// Checking if previous element is bigger than next element
 			if(nums[i - 1] > nums[i]){
